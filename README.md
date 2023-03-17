@@ -3,7 +3,7 @@ This project is a part of the Post Graduate Program Certification Course in Data
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Introduction/Objective:
 Conventional retail stores still play a prominent role in a world dominated by Ecommerce. As time has passed, retailers have had to evolve in order to keep up with changes in demands and the ever-changing mindset of customers. One such retail industry juggernaut that has kept up with the demands of customers as well changed the face of the retail industry for the better is Walmart Inc. We are trying to build a model to improve the sales of the organization as well as better service for the customers.
 
 ### Methods Used
@@ -18,8 +18,6 @@ Conventional retail stores still play a prominent role in a world dominated by E
 * statsmodels.api
 * Jupyter
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
 
@@ -90,20 +88,15 @@ Stores.|
 |Unemployment|Continuous (Numeric)|Unemployment rate of the customers that visit the store.|
 
 2. Raw Data is being kept [here](https://github.com/meastanmay/Walmart-Sales-Prediction) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Data processing/transformation scripts are being kept [here](https://github.com/meastanmay/Walmart-Sales-Prediction/blob/main/EDA_Walmart_Sales_Prediction.ipynb)
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+The project comprises of a set of 3 notebooks. Follow the order of Notebooks below to get along with the project code:
+* [Exploratory Data Analysis and Feature Engineering](https://github.com/meastanmay/Walmart-Sales-Prediction/blob/main/EDA_Walmart_Sales_Prediction.ipynb)
+* [Machine Learning Model Trained on Data without outliers](https://github.com/meastanmay/Walmart-Sales-Prediction/blob/main/Model_without_outliers.ipynb)
+* [Machine Learning Model Trained on Data with outliers](https://github.com/meastanmay/Walmart-Sales-Prediction/blob/main/Model_with_outliers.ipynb)
 
 
 ## Contributing Project Team Members
