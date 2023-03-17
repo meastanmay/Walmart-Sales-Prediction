@@ -11,7 +11,6 @@ Conventional retail stores still play a prominent role in a world dominated by E
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
 
 ### Technologies
 * Python
@@ -32,6 +31,8 @@ Conventional retail stores still play a prominent role in a world dominated by E
 - statistical modeling
 - Machine Learning (Supervised)
 - Literature Survey
+- Reporting
+- Presentation
 
 ## Getting Started
 
@@ -53,18 +54,18 @@ Conventional retail stores still play a prominent role in a world dominated by E
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
+## Contributing Project Team Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Tanmay Agarwal](https://github.com/[meastanmay])**
 
 #### Other Members:
 
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|Name     | 
+|---------|
+|Bala Murli Krishna Vaka| 
+|Vaishnavi Ravi |
+|[Shubhash AVT](https://www.linkedin.com/in/shubhashavt/)|
+|[Saurabh Valde](https://www.linkedin.com/in/saurabh-walde-693a2119a/)|
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
 * Feel free to contact team leads with any questions or if you are interested in contributing!
