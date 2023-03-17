@@ -67,59 +67,27 @@ Categorical variables are any variables where the data represent groups. This in
 |14.| MarkDown5| Numeric| 151432 non_null float|
 |15.| CPI| Continuous (Numeric) 421570 non_null float|
 |16.| Unemployment| Continuous (Numeric) 421570 non_null float|
-Attribute information
-Feature Type Description
-Store Numeric Store details with Unique identifier -Number was given to 
-each 45 stores.
-Dept Numeric Department detail with Unique identifier was given to 
-each 81 departments.
-Date Discrete(Numeric)
-Given every Friday date of the week .Date is between 
-05/02/2010 and 22/10/2010. The format of the date is in 
-YYYY-MM-DD. There is a weak difference in each 
-record.
-Weekly_Sales Numeric Sales per week at a given store.
-IsHoliday Binary(Categorical)
-Given every Friday date of the week. Holidays in a week 
-are given in True or False, This is the data where a 
-weekday is a holiday or not in the week. If weekday is a 
-holiday it is True or it is False.
-Type Categorical
-A, B, C are the type of Walmart stores given. Considering 
-the description we are taking these stores as 
-Hypermarkets, Discount department Stores, Grocery 
-Stores.
-Size Numeric Size of the store is given.
-Temperature Continuous (Numeric) Average temperature in the region (in ℉) where the store 
-is located.
-Fuel_Price Continuous (Numeric) Cost of fuel in the region.
-MarkDown1 Numeric
-Promotion activities to boost sales on a special Holiday, 
-Markdown are the discounts given in a particular store 
-in a given date
-MarkDown2 Numeric
-Promotion activities to boost sales on a special Holiday, 
-Markdown are the discounts given in a particular store 
-in a given date.
-MarkDown3 Numeric
-Promotion activities to boost sales on a special Holiday, 
-Markdown are the discounts given in a particular store 
-in a given date.
-10
-MarkDown4 Numeric
-Promotion activities to boost sales on a special Holiday, 
-Markdown are the discounts given in a particular store 
-in a given date.
-MarkDown5 Numeric
-Promotion activities to boost sales on a special Holiday, 
-Markdown are the discounts given in a particular store 
-in a given date.
-CPI Continuous (Numeric)
-The Consumer Price Index (CPI) measures the change in 
-prices paid by consumers for goods and services. It 
-indicates the changes in the value at present to the base 
-value.
-Unemployment Continuous (Numeric) Unemployment rate of the customers that visit the store
+
+### Attribute information
+|Feature|Type|Description|
+|-------|-----|------------|
+|Store|Numeric|Store details with Unique identifier -Number was given to each 45 stores.|
+|Dept|Numeric|Department detail with Unique identifier was given to each 81 departments.|
+Date|Discrete(Numeric)|Given every Friday date of the week .Date is between 05/02/2010 and 22/10/2010. The format of the date is in YYYY-MM-DD. There is a weak difference in each record.|
+|Weekly_Sales|Numeric|Sales per week at a given store.|
+|IsHoliday|Binary(Categorical)|Given every Friday date of the week. Holidays in a week are given in True or False, This is the data where a weekday is a holiday or not in the week. If weekday is a holiday it is True or it is False.|
+|Type|Categorical|A, B, C are the type of Walmart stores given. Considering the description we are taking these stores as Hypermarkets, Discount department Stores, Grocery 
+Stores.|
+|Size|Numeric|Size of the store is given.|
+|Temperature|Continuous (Numeric)|Average temperature in the region (in ℉) where the store is located.|
+|Fuel_Price|Continuous (Numeric)|Cost of fuel in the region.|
+|MarkDown1|Numeric|Promotion activities to boost sales on a special Holiday, Markdown are the discounts given in a particular store in a given date.|
+|MarkDown2|Numeric|Promotion activities to boost sales on a special Holiday, Markdown are the discounts given in a particular store in a given date.|
+|MarkDown3|Numeric|Promotion activities to boost sales on a special Holiday, Markdown are the discounts given in a particular store in a given date.|
+|MarkDown4|Numeric|Promotion activities to boost sales on a special Holiday, Markdown are the discounts given in a particular store in a given date.|
+|MarkDown5|Numeric|Promotion activities to boost sales on a special Holiday, Markdown are the discounts given in a particular store in a given date.|
+|CPI|Continuous (Numeric)|The Consumer Price Index (CPI) measures the change in prices paid by consumers for goods and services. It indicates the changes in the value at present to the base value.|
+|Unemployment|Continuous (Numeric)|Unemployment rate of the customers that visit the store.|
 
 2. Raw Data is being kept [here](https://github.com/meastanmay/Walmart-Sales-Prediction) within this repo.
 
